@@ -3,7 +3,7 @@ using namespace std;
 
 
 int main() {
-    int n,a=1,b=1,c,d=2;
+    int n,a=1,b=1,c,d=3;
     cin>>n;
 
     if(n>=2){
